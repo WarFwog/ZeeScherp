@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\bin\Debug\netcoreapp3.1\Les1FunctiesReturn.exe
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\bin\Debug\netcoreapp3.1\Les1FunctiesReturn.deps.json
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\bin\Debug\netcoreapp3.1\Les1FunctiesReturn.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\bin\Debug\netcoreapp3.1\Les1FunctiesReturn.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\bin\Debug\netcoreapp3.1\Les1FunctiesReturn.dll
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\bin\Debug\netcoreapp3.1\Les1FunctiesReturn.pdb
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\obj\Debug\netcoreapp3.1\Les1FunctiesReturn.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\obj\Debug\netcoreapp3.1\Les1FunctiesReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\obj\Debug\netcoreapp3.1\Les1FunctiesReturn.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\obj\Debug\netcoreapp3.1\Les1FunctiesReturn.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\obj\Debug\netcoreapp3.1\Les1FunctiesReturn.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\obj\Debug\netcoreapp3.1\Les1FunctiesReturn.dll
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\obj\Debug\netcoreapp3.1\Les1FunctiesReturn.pdb
+C:\MA\Periode 1.3\C#\Les1FunctiesReturn\Les1FunctiesReturn\obj\Debug\netcoreapp3.1\Les1FunctiesReturn.genruntimeconfig.cache

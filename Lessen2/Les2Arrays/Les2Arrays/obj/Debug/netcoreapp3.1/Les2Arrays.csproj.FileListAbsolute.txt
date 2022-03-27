@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\bin\Debug\netcoreapp3.1\Les2Arrays.exe
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\bin\Debug\netcoreapp3.1\Les2Arrays.deps.json
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\bin\Debug\netcoreapp3.1\Les2Arrays.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\bin\Debug\netcoreapp3.1\Les2Arrays.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\bin\Debug\netcoreapp3.1\Les2Arrays.dll
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\bin\Debug\netcoreapp3.1\Les2Arrays.pdb
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\obj\Debug\netcoreapp3.1\Les2Arrays.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\obj\Debug\netcoreapp3.1\Les2Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\obj\Debug\netcoreapp3.1\Les2Arrays.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\obj\Debug\netcoreapp3.1\Les2Arrays.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\obj\Debug\netcoreapp3.1\Les2Arrays.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\obj\Debug\netcoreapp3.1\Les2Arrays.dll
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\obj\Debug\netcoreapp3.1\Les2Arrays.pdb
+C:\MA\Periode 1.3\C#\Les2Arrays\Les2Arrays\obj\Debug\netcoreapp3.1\Les2Arrays.genruntimeconfig.cache

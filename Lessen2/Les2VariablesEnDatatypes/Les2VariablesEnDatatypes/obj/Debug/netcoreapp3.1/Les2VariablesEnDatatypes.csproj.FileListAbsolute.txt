@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\bin\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.exe
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\bin\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.deps.json
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\bin\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\bin\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\bin\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.dll
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\bin\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.pdb
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\obj\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\obj\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\obj\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\obj\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\obj\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\obj\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.dll
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\obj\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.pdb
+C:\MA\Periode 1.3\C#\Les2VariablesEnDatatypes\Les2VariablesEnDatatypes\obj\Debug\netcoreapp3.1\Les2VariablesEnDatatypes.genruntimeconfig.cache

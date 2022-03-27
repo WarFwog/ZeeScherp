@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\obj\Debug\netcoreapp3.1\Les2Loops.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\obj\Debug\netcoreapp3.1\Les2Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\obj\Debug\netcoreapp3.1\Les2Loops.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\obj\Debug\netcoreapp3.1\Les2Loops.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\obj\Debug\netcoreapp3.1\Les2Loops.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\bin\Debug\netcoreapp3.1\Les2Loops.exe
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\bin\Debug\netcoreapp3.1\Les2Loops.deps.json
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\bin\Debug\netcoreapp3.1\Les2Loops.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\bin\Debug\netcoreapp3.1\Les2Loops.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\bin\Debug\netcoreapp3.1\Les2Loops.dll
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\bin\Debug\netcoreapp3.1\Les2Loops.pdb
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\obj\Debug\netcoreapp3.1\Les2Loops.dll
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\obj\Debug\netcoreapp3.1\Les2Loops.pdb
+C:\MA\Periode 1.3\C#\Les2Loops\Les2Loops\obj\Debug\netcoreapp3.1\Les2Loops.genruntimeconfig.cache

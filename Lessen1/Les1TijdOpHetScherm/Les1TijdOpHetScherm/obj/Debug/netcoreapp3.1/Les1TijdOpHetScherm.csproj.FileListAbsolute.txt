@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\bin\Debug\netcoreapp3.1\Les1TijdOpHetScherm.exe
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\bin\Debug\netcoreapp3.1\Les1TijdOpHetScherm.deps.json
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\bin\Debug\netcoreapp3.1\Les1TijdOpHetScherm.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\bin\Debug\netcoreapp3.1\Les1TijdOpHetScherm.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\bin\Debug\netcoreapp3.1\Les1TijdOpHetScherm.dll
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\bin\Debug\netcoreapp3.1\Les1TijdOpHetScherm.pdb
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\obj\Debug\netcoreapp3.1\Les1TijdOpHetScherm.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\obj\Debug\netcoreapp3.1\Les1TijdOpHetScherm.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\obj\Debug\netcoreapp3.1\Les1TijdOpHetScherm.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\obj\Debug\netcoreapp3.1\Les1TijdOpHetScherm.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\obj\Debug\netcoreapp3.1\Les1TijdOpHetScherm.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\obj\Debug\netcoreapp3.1\Les1TijdOpHetScherm.dll
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\obj\Debug\netcoreapp3.1\Les1TijdOpHetScherm.pdb
+C:\MA\Periode 1.3\C#\Les1TijdOpHetScherm\Les1TijdOpHetScherm\obj\Debug\netcoreapp3.1\Les1TijdOpHetScherm.genruntimeconfig.cache

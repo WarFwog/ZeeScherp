@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\boop\boop\bin\Debug\netcoreapp3.1\boop.exe
+C:\MA\Periode 1.3\C#\boop\boop\bin\Debug\netcoreapp3.1\boop.deps.json
+C:\MA\Periode 1.3\C#\boop\boop\bin\Debug\netcoreapp3.1\boop.runtimeconfig.json
+C:\MA\Periode 1.3\C#\boop\boop\bin\Debug\netcoreapp3.1\boop.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\boop\boop\bin\Debug\netcoreapp3.1\boop.dll
+C:\MA\Periode 1.3\C#\boop\boop\bin\Debug\netcoreapp3.1\boop.pdb
+C:\MA\Periode 1.3\C#\boop\boop\obj\Debug\netcoreapp3.1\boop.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\boop\boop\obj\Debug\netcoreapp3.1\boop.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\boop\boop\obj\Debug\netcoreapp3.1\boop.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\boop\boop\obj\Debug\netcoreapp3.1\boop.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\boop\boop\obj\Debug\netcoreapp3.1\boop.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\boop\boop\obj\Debug\netcoreapp3.1\boop.dll
+C:\MA\Periode 1.3\C#\boop\boop\obj\Debug\netcoreapp3.1\boop.pdb
+C:\MA\Periode 1.3\C#\boop\boop\obj\Debug\netcoreapp3.1\boop.genruntimeconfig.cache

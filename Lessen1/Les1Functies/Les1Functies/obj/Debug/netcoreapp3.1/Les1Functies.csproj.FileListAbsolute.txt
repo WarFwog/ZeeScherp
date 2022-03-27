@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\bin\Debug\netcoreapp3.1\Les1Functies.exe
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\bin\Debug\netcoreapp3.1\Les1Functies.deps.json
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\bin\Debug\netcoreapp3.1\Les1Functies.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\bin\Debug\netcoreapp3.1\Les1Functies.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\bin\Debug\netcoreapp3.1\Les1Functies.dll
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\bin\Debug\netcoreapp3.1\Les1Functies.pdb
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\obj\Debug\netcoreapp3.1\Les1Functies.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\obj\Debug\netcoreapp3.1\Les1Functies.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\obj\Debug\netcoreapp3.1\Les1Functies.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\obj\Debug\netcoreapp3.1\Les1Functies.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\obj\Debug\netcoreapp3.1\Les1Functies.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\obj\Debug\netcoreapp3.1\Les1Functies.dll
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\obj\Debug\netcoreapp3.1\Les1Functies.pdb
+C:\MA\Periode 1.3\C#\Les1Functies\Les1Functies\obj\Debug\netcoreapp3.1\Les1Functies.genruntimeconfig.cache

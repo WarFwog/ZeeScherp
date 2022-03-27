@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\obj\Debug\netcoreapp3.1\Les3Classes.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\obj\Debug\netcoreapp3.1\Les3Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\obj\Debug\netcoreapp3.1\Les3Classes.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\obj\Debug\netcoreapp3.1\Les3Classes.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\obj\Debug\netcoreapp3.1\Les3Classes.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\bin\Debug\netcoreapp3.1\Les3Classes.exe
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\bin\Debug\netcoreapp3.1\Les3Classes.deps.json
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\bin\Debug\netcoreapp3.1\Les3Classes.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\bin\Debug\netcoreapp3.1\Les3Classes.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\bin\Debug\netcoreapp3.1\Les3Classes.dll
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\bin\Debug\netcoreapp3.1\Les3Classes.pdb
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\obj\Debug\netcoreapp3.1\Les3Classes.dll
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\obj\Debug\netcoreapp3.1\Les3Classes.pdb
+C:\MA\Periode 1.3\C#\Les3Classes\Les3Classes\obj\Debug\netcoreapp3.1\Les3Classes.genruntimeconfig.cache
