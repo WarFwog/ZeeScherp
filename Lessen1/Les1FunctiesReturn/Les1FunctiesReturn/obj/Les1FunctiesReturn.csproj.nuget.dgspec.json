@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MA\\Periode 1.3\\C#\\Les1FunctiesReturn\\Les1FunctiesReturn\\Les1FunctiesReturn.csproj": {}
+    "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen1\\Les1FunctiesReturn\\Les1FunctiesReturn\\Les1FunctiesReturn.csproj": {}
   },
   "projects": {
-    "C:\\MA\\Periode 1.3\\C#\\Les1FunctiesReturn\\Les1FunctiesReturn\\Les1FunctiesReturn.csproj": {
+    "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen1\\Les1FunctiesReturn\\Les1FunctiesReturn\\Les1FunctiesReturn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\Les1FunctiesReturn\\Les1FunctiesReturn\\Les1FunctiesReturn.csproj",
+        "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen1\\Les1FunctiesReturn\\Les1FunctiesReturn\\Les1FunctiesReturn.csproj",
         "projectName": "Les1FunctiesReturn",
-        "projectPath": "C:\\MA\\Periode 1.3\\C#\\Les1FunctiesReturn\\Les1FunctiesReturn\\Les1FunctiesReturn.csproj",
+        "projectPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen1\\Les1FunctiesReturn\\Les1FunctiesReturn\\Les1FunctiesReturn.csproj",
         "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "C:\\MA\\Periode 1.3\\C#\\Les1FunctiesReturn\\Les1FunctiesReturn\\obj\\",
+        "outputPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen1\\Les1FunctiesReturn\\Les1FunctiesReturn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\bin\Debug\netcoreapp3.1\Les5Scopes.exe
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\bin\Debug\netcoreapp3.1\Les5Scopes.deps.json
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\bin\Debug\netcoreapp3.1\Les5Scopes.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\bin\Debug\netcoreapp3.1\Les5Scopes.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\bin\Debug\netcoreapp3.1\Les5Scopes.dll
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\bin\Debug\netcoreapp3.1\Les5Scopes.pdb
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\obj\Debug\netcoreapp3.1\Les5Scopes.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\obj\Debug\netcoreapp3.1\Les5Scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\obj\Debug\netcoreapp3.1\Les5Scopes.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\obj\Debug\netcoreapp3.1\Les5Scopes.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\obj\Debug\netcoreapp3.1\Les5Scopes.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\obj\Debug\netcoreapp3.1\Les5Scopes.dll
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\obj\Debug\netcoreapp3.1\Les5Scopes.pdb
+C:\MA\Periode 1.3\C#\Les5Scopes\Les5Scopes\obj\Debug\netcoreapp3.1\Les5Scopes.genruntimeconfig.cache

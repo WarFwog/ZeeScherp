@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MA\\Periode 1.3\\C#\\Les2Arrays\\Les2Arrays\\Les2Arrays.csproj": {}
+    "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2Arrays\\Les2Arrays\\Les2Arrays.csproj": {}
   },
   "projects": {
-    "C:\\MA\\Periode 1.3\\C#\\Les2Arrays\\Les2Arrays\\Les2Arrays.csproj": {
+    "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2Arrays\\Les2Arrays\\Les2Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\Les2Arrays\\Les2Arrays\\Les2Arrays.csproj",
+        "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2Arrays\\Les2Arrays\\Les2Arrays.csproj",
         "projectName": "Les2Arrays",
-        "projectPath": "C:\\MA\\Periode 1.3\\C#\\Les2Arrays\\Les2Arrays\\Les2Arrays.csproj",
+        "projectPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2Arrays\\Les2Arrays\\Les2Arrays.csproj",
         "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "C:\\MA\\Periode 1.3\\C#\\Les2Arrays\\Les2Arrays\\obj\\",
+        "outputPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2Arrays\\Les2Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

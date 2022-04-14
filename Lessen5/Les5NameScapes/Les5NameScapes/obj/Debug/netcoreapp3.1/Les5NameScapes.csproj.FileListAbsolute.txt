@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\bin\Debug\netcoreapp3.1\Les5NameScapes.exe
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\bin\Debug\netcoreapp3.1\Les5NameScapes.deps.json
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\bin\Debug\netcoreapp3.1\Les5NameScapes.runtimeconfig.json
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\bin\Debug\netcoreapp3.1\Les5NameScapes.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\bin\Debug\netcoreapp3.1\Les5NameScapes.dll
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\bin\Debug\netcoreapp3.1\Les5NameScapes.pdb
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\obj\Debug\netcoreapp3.1\Les5NameScapes.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\obj\Debug\netcoreapp3.1\Les5NameScapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\obj\Debug\netcoreapp3.1\Les5NameScapes.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\obj\Debug\netcoreapp3.1\Les5NameScapes.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\obj\Debug\netcoreapp3.1\Les5NameScapes.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\obj\Debug\netcoreapp3.1\Les5NameScapes.dll
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\obj\Debug\netcoreapp3.1\Les5NameScapes.pdb
+C:\MA\Periode 1.3\C#\ZeeScherp\Lessen5\Les5NameScapes\Les5NameScapes\obj\Debug\netcoreapp3.1\Les5NameScapes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\bin\Debug\netcoreapp3.1\Les3SwitchCases.exe
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\bin\Debug\netcoreapp3.1\Les3SwitchCases.deps.json
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\bin\Debug\netcoreapp3.1\Les3SwitchCases.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\bin\Debug\netcoreapp3.1\Les3SwitchCases.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\bin\Debug\netcoreapp3.1\Les3SwitchCases.dll
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\bin\Debug\netcoreapp3.1\Les3SwitchCases.pdb
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\obj\Debug\netcoreapp3.1\Les3SwitchCases.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\obj\Debug\netcoreapp3.1\Les3SwitchCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\obj\Debug\netcoreapp3.1\Les3SwitchCases.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\obj\Debug\netcoreapp3.1\Les3SwitchCases.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\obj\Debug\netcoreapp3.1\Les3SwitchCases.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\obj\Debug\netcoreapp3.1\Les3SwitchCases.dll
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\obj\Debug\netcoreapp3.1\Les3SwitchCases.pdb
+C:\MA\Periode 1.3\C#\Les3SwitchCases\Les3SwitchCases\obj\Debug\netcoreapp3.1\Les3SwitchCases.genruntimeconfig.cache

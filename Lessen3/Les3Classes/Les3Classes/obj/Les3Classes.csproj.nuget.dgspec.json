@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MA\\Periode 1.3\\C#\\Les3Classes\\Les3Classes\\Les3Classes.csproj": {}
+    "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen3\\Les3Classes\\Les3Classes\\Les3Classes.csproj": {}
   },
   "projects": {
-    "C:\\MA\\Periode 1.3\\C#\\Les3Classes\\Les3Classes\\Les3Classes.csproj": {
+    "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen3\\Les3Classes\\Les3Classes\\Les3Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\Les3Classes\\Les3Classes\\Les3Classes.csproj",
+        "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen3\\Les3Classes\\Les3Classes\\Les3Classes.csproj",
         "projectName": "Les3Classes",
-        "projectPath": "C:\\MA\\Periode 1.3\\C#\\Les3Classes\\Les3Classes\\Les3Classes.csproj",
+        "projectPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen3\\Les3Classes\\Les3Classes\\Les3Classes.csproj",
         "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "C:\\MA\\Periode 1.3\\C#\\Les3Classes\\Les3Classes\\obj\\",
+        "outputPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen3\\Les3Classes\\Les3Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

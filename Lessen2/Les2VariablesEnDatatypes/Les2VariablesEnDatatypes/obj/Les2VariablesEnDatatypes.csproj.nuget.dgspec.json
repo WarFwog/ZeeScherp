@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MA\\Periode 1.3\\C#\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes.csproj": {}
+    "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes.csproj": {}
   },
   "projects": {
-    "C:\\MA\\Periode 1.3\\C#\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes.csproj": {
+    "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes.csproj",
+        "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes.csproj",
         "projectName": "Les2VariablesEnDatatypes",
-        "projectPath": "C:\\MA\\Periode 1.3\\C#\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes.csproj",
+        "projectPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes.csproj",
         "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "C:\\MA\\Periode 1.3\\C#\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\obj\\",
+        "outputPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2VariablesEnDatatypes\\Les2VariablesEnDatatypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

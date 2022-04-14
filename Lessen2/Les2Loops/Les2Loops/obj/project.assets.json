@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\Les2Loops\\Les2Loops\\Les2Loops.csproj",
+      "projectUniqueName": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2Loops\\Les2Loops\\Les2Loops.csproj",
       "projectName": "Les2Loops",
-      "projectPath": "C:\\MA\\Periode 1.3\\C#\\Les2Loops\\Les2Loops\\Les2Loops.csproj",
+      "projectPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2Loops\\Les2Loops\\Les2Loops.csproj",
       "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-      "outputPath": "C:\\MA\\Periode 1.3\\C#\\Les2Loops\\Les2Loops\\obj\\",
+      "outputPath": "C:\\MA\\Periode 1.3\\C#\\ZeeScherp\\Lessen2\\Les2Loops\\Les2Loops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",

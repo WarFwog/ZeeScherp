@@ -1,0 +1,14 @@
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\bin\Debug\netcoreapp3.1\Les6Overerving.exe
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\bin\Debug\netcoreapp3.1\Les6Overerving.deps.json
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\bin\Debug\netcoreapp3.1\Les6Overerving.runtimeconfig.json
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\bin\Debug\netcoreapp3.1\Les6Overerving.runtimeconfig.dev.json
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\bin\Debug\netcoreapp3.1\Les6Overerving.dll
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\bin\Debug\netcoreapp3.1\Les6Overerving.pdb
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\obj\Debug\netcoreapp3.1\Les6Overerving.csproj.AssemblyReference.cache
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\obj\Debug\netcoreapp3.1\Les6Overerving.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\obj\Debug\netcoreapp3.1\Les6Overerving.AssemblyInfoInputs.cache
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\obj\Debug\netcoreapp3.1\Les6Overerving.AssemblyInfo.cs
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\obj\Debug\netcoreapp3.1\Les6Overerving.csproj.CoreCompileInputs.cache
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\obj\Debug\netcoreapp3.1\Les6Overerving.dll
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\obj\Debug\netcoreapp3.1\Les6Overerving.pdb
+C:\MA\Periode 1.3\C#\Les6Overerving\Les6Overerving\obj\Debug\netcoreapp3.1\Les6Overerving.genruntimeconfig.cache
